@@ -3,3 +3,5 @@ Learn git is fun.
 set noundofile
 
 new branch
+
+test ssh
